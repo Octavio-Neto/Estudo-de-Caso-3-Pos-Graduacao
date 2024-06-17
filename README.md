@@ -16,9 +16,13 @@ Fazer predições de preços para novos imóveis
 
 # Bibliotecas Utilizadas
 pandas: Para manipulação e análise de dados
+
 numpy: Para operações numéricas
+
 matplotlib e seaborn: Para visualização de dados
+
 scikit-learn: Para construção e avaliação do modelo de machine learning
+
 plotly: Para visualização interativa dos dados e resultados
 
 # Passos do Projeto
